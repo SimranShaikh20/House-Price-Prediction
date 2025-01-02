@@ -2,16 +2,6 @@
 
 This repository contains code for **Exploratory Data Analysis (EDA)** and **House Price Prediction** using a **Linear Regression** model. The project focuses on analyzing a dataset of house prices based on various features such as area, number of bedrooms, bathrooms, stories, and additional amenities. The aim is to uncover insights through EDA and predict house prices using machine learning.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Model Training](#model-training)
-- [Visualizations](#visualizations)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [License](#license)
-
 ## Project Overview
 
 This project involves performing **Exploratory Data Analysis (EDA)** on a dataset containing information about houses, followed by training a **Linear Regression** model to predict house prices. The dataset contains a variety of features, including the size of the house, the number of bedrooms, bathrooms, whether the house is near a main road, and whether it has additional amenities such as a guestroom, basement, or air conditioning.
