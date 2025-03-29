@@ -89,7 +89,7 @@ To set up and run this project on your local machine, follow these steps:
 1️⃣ Clone the repository:
 
 ```bash
- git clone https://github.com/your-username/house-price-prediction.git
+ git clone https://github.com/SimranShaikh20/house-price-prediction.git
  cd house-price-prediction
 ```
 
