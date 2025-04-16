@@ -54,8 +54,11 @@ EDA is an essential step in understanding the dataset. The following steps are p
 After data cleaning and exploration, a **Linear Regression** model is trained to predict house prices. The steps include:
 
 🔹 **Feature Selection** - Identifying key features for model training.
+
 🔹 **Train-Test Split** - Dividing data into training and testing sets.
+
 🔹 **Model Training** - Training a Linear Regression model using Scikit-learn.
+
 🔹 **Model Evaluation** - Evaluating model performance with Mean Squared Error (MSE) & R-squared.
 
 ---
@@ -65,9 +68,13 @@ After data cleaning and exploration, a **Linear Regression** model is trained to
 Several visualizations are used to gain insights into the dataset and model performance:
 
 📌 **Correlation Heatmap** - Displays correlations between numerical features.
+
 📌 **Boxplots** - Shows data distributions for `price`, `area`, and other features.
+
 📌 **Scatter Plots** - Highlights relationships between key features.
+
 📌 **Pairplots** - Explores multiple feature relationships.
+
 📌 **Count Plots** - Analyzes categorical feature distributions.
 
 ---
